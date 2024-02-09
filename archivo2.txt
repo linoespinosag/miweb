@@ -1,4 +1,2 @@
 archivo2
 archivo2
-nueva linea 1
-nueva linea 2
